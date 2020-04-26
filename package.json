@@ -1,0 +1,29 @@
+{
+  "name": "overthehorizon",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diganta15/OverTheHorizon.git"
+  },
+  "keywords": [
+    "Personal",
+    "Blog",
+    "Blog",
+    "Website"
+  ],
+  "author": "Diganta Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diganta15/OverTheHorizon/issues"
+  },
+  "homepage": "https://github.com/diganta15/OverTheHorizon#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
