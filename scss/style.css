@@ -42,4 +42,9 @@ footer h3 {
 footer .row {
   text-align: center;
 }
+
+footer .row a {
+  text-decoration: none;
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
